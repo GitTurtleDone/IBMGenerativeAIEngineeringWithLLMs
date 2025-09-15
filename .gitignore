@@ -1,0 +1,16 @@
+**/*.pt
+**/*.pth
+**/*.safetensors
+**/*.pt.1
+**/*.pth.1
+**/*.pth.*
+**/*.pt.*
+**/*.safetensors.1
+**/.vector_cache/
+**/globe*/
+**/glove.6B/
+4thCourse/L1/Lab3/opt_model/checkpoint-750/model.safetensors
+4thCourse/L1/Lab4/.vector_cache/glove.6B/glove.6B.100d.txt
+4thCourse/L1/Lab5/bert-classification-model.pt.1
+4thCourse/L1/Lab3/opt_model/checkpoint-500/model.safetensors
+4thCourse/L1/Lab3/bert-scratch-model.pt.1
